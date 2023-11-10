@@ -11530,6 +11530,7 @@ p {
   border: 1px solid #dee2e6;
   overflow: hidden;
   border-radius: 3px;
+  margin-bottom: 30px;
 }
 
 .service-card .body {
@@ -11584,6 +11585,7 @@ p {
   display: block;
   position: relative;
   overflow: hidden;
+  margin-bottom: 30px;
 }
 
 .portfolio-card .portfolio-card-img {
@@ -11646,14 +11648,14 @@ p {
   border-radius: 0;
 }
 
-@media (max-width: 767.98px) {
+/* @media (max-width: 767.98px) {
   .portfolio-card {
     margin-bottom: 30px;
   }
   .service-card {
     margin-bottom: 30px;
   }
-}
+} */
 
 /* Pricing card */
 .pricing-wrapper {
